@@ -6,7 +6,7 @@
 
 Seville, Spain · Spanish (native) · English (C1) · German (C1)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([TU_URL_DE_LINKEDIN](https://www.linkedin.com/in/guillermo-gomez-conejero-263369376/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-gomez-conejero-263369376/)
 [![Email](https://img.shields.io/badge/Email-ggomezconejero%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ggomezconejero@gmail.com)
 ![Open to internships](https://img.shields.io/badge/Open%20to-internships-2EA44F?style=flat-square)
 
