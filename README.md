@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Guillermo
 
-<!--
-**Goco36/Goco36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Computer Engineering student (IT track) in Seville, Spain. I'm building my foundation in software development and starting to focus on application security.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[security-headers-checker](https://github.com/Goco36/security-headers-checker)**
+A Python CLI that checks a URL for HTTP security headers and flags missing, misconfigured or information-leaking ones. Includes JSON output, CI-friendly exit codes and unit tests.
+`Python` `requests` `argparse` `pytest`
+
+## Skills
+
+**Languages:** Python, Java, JavaScript, SQL, HTML, CSS
+
+## Languages
+
+Spanish (native) · English (C1) · German (C1)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/guillermo-gomez-conejero-263369376/) · ggomezconejero@gmail.com
